@@ -1,0 +1,29 @@
+img{
+    max-width: 60%;
+    max-width:60%;
+    
+}
+body {
+    background-color: dimgrey;
+}
+h1
+{
+    color: black;
+    text-align: center;
+}
+h2
+{
+    color: black;
+}
+h3
+{
+    color: black
+}
+p
+{
+    color: black;
+    font-size: large;
+}
+.parent{
+ text-align : center;
+}
